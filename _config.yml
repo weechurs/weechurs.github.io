@@ -1,11 +1,7 @@
 title: Dinky theme
 description: Dinky is a red hot theme for GitHub Pages.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme:
 repository: eldritchjs/eldritchjs.github.io
-site.github.is_project_page: false
-site.github.is_user_page: true
-is_project_page: false
-is_user_page: true
 
